@@ -1,0 +1,36 @@
+id,codepostal,adresse2,adresse1,"Adresse 1 clean",ville,region,longitude,latitude,nom
+16,67052,," Centre Commercial des HallesBP 46","Centre Commercial des HallesBP 46","STRASBOURG CEDEX",EST,7.742974,48.586544,"STRASBOURG HALLES"
+17,42000,,"31-33 Place du Peuple","31-33 Place du Peuple","SAINT ETIENNE",CENTRE,0,0,"SAINT ETIENNE"
+18,57000,,"8 Avenue Robert Schuman","8 Avenue Robert Schuman",METZ,EST,6.17279,49.11435,METZ
+19,54000,,"57 Rue Saint Dizier","57 Rue Saint Dizier",NANCY,EST,6.1830301,48.6902497,"NANCY CENTRE"
+20,68100,,"19 Avenue De Colmar","19 Avenue De Colmar",MULHOUSE,EST,0,0,"MULHOUSE AVENUE DE COLMAR"
+21,69003,"166 B Allée de la Saône","C.Cial La Part Dieu, 166 bis allée de la Saône","C.Cial La Part Dieu, 166 bis allée de la Saône",LYON,EST,4.855338145,45.761703,"LYON LA PART DIEU"
+22,31000,"BP 54240","23 place du Capitole","23 place du Capitole",TOULOUSE,OUEST,1.44301,43.60408,"TOULOUSE CAPITOLE"
+23,69002,,"68 Rue de la République","68 Rue de la République",LYON,EST,4.834243277,45.758064,"LYON BELLECOUR"
+24,33000,,"21-23 Rue Sainte Catherine","21-23 Rue Sainte Catherine",BORDEAUX,OUEST,-0.574616355,44.841053,"BORDEAUX SAINTE CATHERINE CENTRE"
+25,13001,N/A,"79 CANEBIERE","79 CANEBIERE",MARSEILLE,EST,5.38064804,43.29772119,"MARSEILLE CANEBIERE"
+26,44000,N/A,"3 Rue de Gorges","3 Rue de Gorges",NANTES,OUEST,-1.558361422,47.21400519,"NANTES COMMERCE"
+27,75009,,"20 Boulevard Montmartre","20 Boulevard Montmartre",PARIS,CENTRE,2.340324,48.872054,"PARIS MONTMARTRE"
+28,75002,,"141 boulevard Sébastopol","141 boulevard Sébastopol",PARIS,Inconnu,0,0,"PARIS SAINT DENIS"
+29,75009,,"73 Rue Caumartin","73 Rue Caumartin",PARIS,CENTRE,2.328309473,48.875475,"PARIS CAUMARTIN"
+30,59000,N/A,"23 Place du Général de Gaulle","23 Place du Général de Gaulle",LILLE,EST,3.0629309,50.6369361,"LILLE CENTRE"
+31,06000,N/A,"47 bis Avenue Jean Médecin","47 bis Avenue Jean Médecin",NICE,EST,7.26532,43.70474,"NICE JEAN MEDECIN"
+32,75001,N/A,"116 Rue de Rivoli","116 Rue de Rivoli",PARIS,CENTRE,2.3460549,48.8593647,"PARIS RIVOLI"
+33,69002,N/A,"48 Rue Victor Hugo","48 Rue Victor Hugo",LYON,EST,4.8289386,45.7528756,"LYON VICTOR HUGO"
+34,75018,N/A,"2 Rue d'Orsel","2 Rue d'Orsel",PARIS,CENTRE,2.346459561,48.88396794,"PARIS ORSEL CLIGNANCOURT"
+35,75001,N/A,"McDonald's 17 Rue de l'Arc en Ciel","McDonald's 17 Rue de l'Arc en Ciel",PARIS,CENTRE,2.34789,48.86163,"PARIS FORUM"
+36,29200,"50 Rue Jean Jaurès","Centre Commercial Coat Ar Gueven","Centre Commercial Coat Ar Gueven",BREST,OUEST,-4.482211,48.392802,BREST
+37,75005,,"98 Boulevard Saint Germain","98 Boulevard Saint Germain",PARIS,"MCOPCO 100%",2.3437132,48.8513965,CLUNY
+38,13008,,"McDonald's Centre Commercial 122 Avenue de Hambourg","McDonald's Centre Commercial 122 Avenue de Hambourg",MARSEILLE,EST,5.3895208239555,43.249035951237,"MARSEILLE BONNEVEINE"
+39,34000,," 7 Place de la ComédieCS 69040","7 Place de la ComédieCS 69040",MONTPELLIER,CENTRE,3.879397012,43.608215,"MONTPELLIER COMEDIE"
+40,75001,N/A,"12 Rue Berger","12 Rue Berger",PARIS,CENTRE,2.34822,48.86089,"PARIS BERGER"
+41,92230,N/A,"21-23 Rue Louis Calmel","21-23 Rue Louis Calmel",GENNEVILLIERS,CENTRE,2.29208,48.92621,GENNEVILLIERS
+42,91940,"Entrée portes 4-5-6-7","McDonald's Centre Commercial Les Ulis 2","McDonald's Centre Commercial Les Ulis 2","LES ULIS",CENTRE,2.169961,48.677616,"LES ULIS"
+43,75005,N/A,"65 boulevard Saint-Michel","65 boulevard Saint-Michel",PARIS,"MCOPCO 100%",2.340942257,48.84718636,LUXEMBOURG-PANTHEON
+44,84000,N/A,"McDonald's 23 Rue de la République","McDonald's 23 Rue de la République",AVIGNON,EST,4.805878972,43.946987,"AVIGNON CENTRE"
+45,35000,," McDonald's Centre Commercial Colombia31 place du colombier","McDonald's Centre Commercial Colombia31 place du colombier",RENNES,OUEST,-1.6801698601024,48.10445452023,"RENNES COLOMBIA"
+46,77340,"RN 4","Centre Commercial Carrefour.","Centre Commercial Carrefour.","PONTAULT COMBAULT",CENTRE,2.605246151,48.77663273,"PONTAULT COMBAULT"
+47,06000,,"20 Avenue Jean Médecin","20 Avenue Jean Médecin",NICE,EST,7.26841,43.70014,"NICE MASSENA"
+48,76000,,"139 Rue du Gros Horloge","139 Rue du Gros Horloge",ROUEN,OUEST,1.0903115,49.4419198,"ROUEN GROS HORLOGE"
+49,31000,"10-12 allée Franklin Roosevelt",McDonald's™Wilson,McDonald's™Wilson,TOULOUSE,OUEST,1.448355,43.605215,"TOULOUSE ROOSEVELT"
+50,78711,,"McDonald's Mantes la ville, 135 Boulevard Roger Salengro","McDonald's Mantes la ville, 135 Boulevard Roger Salengro","MANTES LA VILLE",CENTRE,1.69600129,48.98000936,"MANTES LA VILLE"
